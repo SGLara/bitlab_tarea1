@@ -1,21 +1,17 @@
-const miJornadaDiaria = ( ) => {
-
-    levantarme_a_las_6:00_A.M();
-    ordeno_mi_cama();
-    me_cepillo();
-    tomo_una_ducha();
-    desayuno();
-    enciendo_mi_computadora_para_trabajar_a_las_9:00_A.M();
-    tomo_mi_primer_break_de_11:00_a_11:10();
-    tomo_mi_almuerzo();
-    tomo_mi_segundo_break_de_2:40_a_2:50();
-    termino_de_trabajar_a_las_4:30_PM();
-    veo_television_una_hora();
-    comienzo_mis_clase_bitalab_de_6_a_8_P.M();
-    tomo_mi_cena();
-    estudio_o_hago_actividades_asignadas();
-    me_duermo_a_las_12_A.M();
-    repeat( );
-}
-
-miJornadaDiaria( );
+1. Me despierto a las 6:00 A.M.
+2. Uso mi super velocidad para ordenar mi cuarto.
+3. Uso mi super velocidad para duplicarme.
+4. Me ducho y desayuno al mismo tiempo, yo me baño, mi duplicado desayuna.
+5. Vuelvo a ser uno solo.
+6. Salgo volando y llego justo un minuto antes a clases.
+7. Mientras estoy en clases si escucho a alguien en peligro alrededor del mundo con mi super poder auditivo, pido ir al baño y me pongo mi traje. 
+8. Terminan mis clases.
+9. Almuerzo
+10. Con mi poder de crear, creo un carro super tecnologico y llevo a mi familia de paseo.
+11. Justo en las tardes, cuando estoy nostálgico viajo al pasado y visito a todos aquellos que ya no estan para decirles lo mucho que los amo.
+12. Luego viajo al futuro para pedirle a mi amigo del futuro (que es un robot bibliotecario) que me ayude a hacer la tarea mientras le programo una nueva habilidad. 
+13. Regreso al presente y con mi tarea lista, pues me relajo y veo mis series y peliculas favoritas por 24 horas (es decir que uso mi habilidad de detener el tiempo) para pasar viendo un dia entero peliculas y sin afectar el tiempo real solamente lo hago en una hora.
+14. Ceno
+15. Y finalmente despues de estudiar tres horas.
+16. Me voy a dormir.
+17. Y sueño que vivo en un mundo paralelo llamado realidad.
