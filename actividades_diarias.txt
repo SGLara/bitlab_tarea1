@@ -25,5 +25,3 @@ var superPower = function ( ) {
     crearActividades.repeat( );
 
 }
-
-document.write(superPower());
