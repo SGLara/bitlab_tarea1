@@ -1,0 +1,16 @@
+Levantarme a las 6:00
+Ordeno mi cama
+Me cepillo
+Tomo una ducha
+Desayuno
+Enciendo mi computadora para trabajr a las 9:00 AM
+Tomo mi primer break de 11:00 a 11:10
+Almuerzo
+Tomo mi segundo break de 2:40 a 2:50
+Termino de trabajar a las 4:30 PM
+Veo television una hora
+Comienzo mis clase bitalab de 6 a 8 PM
+Ceno
+Estudio o hago actividades asignadas.
+Me duermo a las 12 AM
+repeat( );
