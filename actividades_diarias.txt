@@ -1,16 +1,20 @@
-1. Levantarme a las 6:00 A.M.
-2. Ordeno mi cama.
-3. Me cepillo.
-4. Tomo una ducha.
-5. Desayuno.
-6. Enciendo mi computadora para trabajar a las 9:00 A.M.
-7. Tomo mi primer break de 11:00 a 11:10.
-8. Tomo mi almuerzo.
-9. Tomo mi segundo break de 2:40 a 2:50.
-10. Termino de trabajar a las 4:30 PM.
-11. Veo television una hora.
-12. Comienzo mis clase bitalab de 6 a 8 P.M.
-13. Tomo mi cena.
-14. Estudio o hago actividades asignadas.
-15. Me duermo a las 12 A.M.
-16. repeat( );
+const miJornadaDiaria = () => {
+
+Levantarme a las 6:00 A.M.
+Ordeno mi cama.
+Me cepillo.
+Tomo una ducha.
+Desayuno.
+Enciendo mi computadora para trabajar a las 9:00 A.M.
+Tomo mi primer break de 11:00 a 11:10.
+Tomo mi almuerzo.
+Tomo mi segundo break de 2:40 a 2:50.
+Termino de trabajar a las 4:30 PM.
+Veo television una hora.
+Comienzo mis clase bitalab de 6 a 8 P.M.
+Tomo mi cena.
+Estudio o hago actividades asignadas.
+Me duermo a las 12 A.M.
+repeat( );
+
+}
